@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 97cb0389f249d8548a73d1f4b6a6a900
+timeCreated: 1496363789
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Key Tab Metal
+  fontNames:
+  - Key Tab Metal
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
