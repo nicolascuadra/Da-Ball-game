@@ -772,18 +772,15 @@ Prefab:
       propertyPath: FuerzaSalto
       value: 3100
       objectReference: {fileID: 0}
-    - target: {fileID: 114783872043188418, guid: 66c4fcb3acbac0a48ba526c4cd90a1bd,
-        type: 2}
+    - target: {fileID: 0}
       propertyPath: R
       value: 225
       objectReference: {fileID: 0}
-    - target: {fileID: 114783872043188418, guid: 66c4fcb3acbac0a48ba526c4cd90a1bd,
-        type: 2}
+    - target: {fileID: 0}
       propertyPath: G
       value: 25
       objectReference: {fileID: 0}
-    - target: {fileID: 114783872043188418, guid: 66c4fcb3acbac0a48ba526c4cd90a1bd,
-        type: 2}
+    - target: {fileID: 0}
       propertyPath: B
       value: 215
       objectReference: {fileID: 0}
@@ -4786,17 +4783,7 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 4857392925220212, guid: 66c4fcb3acbac0a48ba526c4cd90a1bd, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: -35
-      objectReference: {fileID: 0}
-    - target: {fileID: 114642850173035116, guid: 66c4fcb3acbac0a48ba526c4cd90a1bd,
-        type: 2}
-      propertyPath: FuerzaSalto
-      value: 1600
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 114783872043188418, guid: 66c4fcb3acbac0a48ba526c4cd90a1bd, type: 2}
+    m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 66c4fcb3acbac0a48ba526c4cd90a1bd, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &1749450977
@@ -4812,7 +4799,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4582256012596034, guid: 052dfad49e0fa6041b3e6ee1ef2908d5, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 28.5
+      value: 27.51
       objectReference: {fileID: 0}
     - target: {fileID: 4582256012596034, guid: 052dfad49e0fa6041b3e6ee1ef2908d5, type: 2}
       propertyPath: m_LocalPosition.z
